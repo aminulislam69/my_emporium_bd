@@ -1,0 +1,173 @@
+{
+  "Header": {
+    "title": "EMPORIUM PROPERTIES LIMITED",
+    "paragraph": "Emporium is the countries leargest property dealing comapany. The last hope for investing your life!"
+  },
+  "About": {
+    "paragraph": "Having designed, built, and delivered residential and commercial addresses for last 4 decades, Emporium is a well-known and highly reputed real estate company in Bangladesh. Our success is based on our track record of reliability and customer-centricity. Till date, we have completed and handed over more than 200 projects in Dhaka cities most pominant and prestigious residential area",
+    "Why": [
+      "Expertise & Experience",
+      "Custom Solutions",
+      "Agile Methodology",
+      "Security"
+    ],
+    "Why2": [
+      "Quality Assurance",
+      "Client-Centric Approach",
+      "Project Management",
+      "Sustainability and Ethics"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Gulshan Emporium Tower",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Buy land or Apartment",
+      "text": "Emporium is a well reputed Company who Buy Land or Flat in prominant location in Dhaka city i.g Gulshan, Banani, Nikunja, DOHS etc."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Sell land or Apartment ",
+      "text": "After modification, if neede, Emporium sell this properties to the selective buyers who like to be a proud address woner of this eligant area"
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Consultation",
+      "text": "Emporium has a very Expriences and Daynamic team can solve your problems about properties. Come to us and talk with our Profesionals."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Project Management",
+      "text": "Overseeing the entire development process, from concept to completion, including managing budgets, timelines, and subcontractors."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Zoning and Permitting",
+      "text": "Navigating the regulatory and permitting process, including zoning changes, land use approvals, environmental assessments, and building permits."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Legal and Regulatory Compliance",
+      "text": "Ensuring compliance with state laws and regulations throughout the development process including rental properties and commercial spaces"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    
+    {
+      "img": "img/team/01.jpg",
+      "name": "MD. Arafatur Rahman Apel",
+      "job": "Chairman"
+    }, {
+      "img": "img/team/02.jpg",
+      "name": "Ruhul Amin Sarkar Rony ",
+      "job": "Director"
+    }
+   
+  ],
+  "Contact": {
+    "address": "House no-91(Flat-7B), Road no-4, Block-B, Banani, Dhaka-1213",
+    "phone": "+880 1715 134  256",
+    "mobile": "+880 1716 726  876",
+    "email": "emporiumpropertiesltd@gmail.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Investment Advice",
+      "text": "Emporium provide advice and guidance on real estate investment opportunities, including buying, selling, and managing properties."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Buy and Sell",
+      "text": "Emporium is dedicated to Buy and Sell properties at very prominant place in Dhaka city. So if you are a buyer or a Seller come to us for best deal! "
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Trust",
+      "text": "Trust is the first Capital in Emporium. We have repeted customer who always comes to deal with us due to our trustwarthy dealings."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Dream With Us",
+      "text": "Relax and reap the benefits of owning property in Bangladesh. See your property transform as per your dreams, sooner than you anticipated!."
+    }
+  ]
+}
